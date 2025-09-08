@@ -1,0 +1,1027 @@
+{
+   {
+   ["descLine3"] =     "{C:attention}09/08/2025 1:01 AM{}",
+   ["descLine4"] =     "",
+   ["descLine1"] =     "Custom Deck",
+   ["discovered"] =     true,
+   ["descLine2"] =     "created at",
+   ["loc_txt"] =     {
+     ["name_parsed"] =       {
+               {
+                   {
+           ["strings"] =             {
+                           "God Ops"
+            },
+           ["control"] =             {
+
+            }
+          }
+        }
+      },
+     ["text_parsed"] =       {
+               {
+                   {
+           ["strings"] =             {
+                           "Custom Deck"
+            },
+           ["control"] =             {
+
+            }
+          }
+        },
+               {
+                   {
+           ["strings"] =             {
+                           "created at"
+            },
+           ["control"] =             {
+
+            }
+          }
+        },
+               {
+                   {
+           ["strings"] =             {
+                           "09/08/2025 1:01 AM"
+            },
+           ["control"] =             {
+             ["C"] =               "attention"
+            }
+          }
+        }
+      },
+     ["name"] =       "God Ops",
+     ["text"] =       {
+               "Custom Deck",
+               "created at",
+               "{C:attention}09/08/2025 1:01 AM{}"
+      }
+    },
+   ["unlocked"] =     true,
+   ["slug"] =     "b_God Ops_2b00bf58-f2b4-4772-91af-ef8c86111927",
+   ["spritePos"] =     {
+     ["y"] =       4,
+     ["x"] =       4
+    },
+   ["name"] =     "God Ops",
+   ["config"] =     {
+     ["bannedTagList"] =       {
+
+      },
+     ["booster_pack_slots"] =       2,
+     ["reroll_cost"] =       3,
+     ["stones_are_faces"] =       false,
+     ["spectral_cards_in_arcana"] =       false,
+     ["destroy_random_joker_after_ante_four"] =       0,
+     ["sevens_are_faces"] =       false,
+     ["dollars"] =       96,
+     ["discards"] =       6,
+     ["all_eternal"] =       false,
+     ["shop_slots"] =       2,
+     ["no_spectral_destroy_cards"] =       false,
+     ["meteor_tag_percent"] =       0,
+     ["chance_for_negative_joker_on_skip_disable"] =       0,
+     ["coupon_tag_percent"] =       0,
+     ["chance_to_double_gold_seal"] =       0,
+     ["tarot_cards_in_spectral"] =       false,
+     ["ectoplasm_cannot_change_hand_size"] =       false,
+     ["all_steel"] =       false,
+     ["bannedVoucherList"] =       {
+
+      },
+     ["enable_perishables_in_shop"] =       false,
+     ["booster_ante_scaling"] =       0,
+     ["chance_for_random_negative_joker_on_shop_skip"] =       0,
+     ["customTarotList"] =       {
+
+      },
+     ["voucher_slots"] =       1,
+     ["gain_ten_dollars_glass_break_chance"] =       0,
+     ["replace_broken_glass_with_stones_chance"] =       0,
+     ["randomize_rank_suit"] =       false,
+     ["chance_for_negative_joker_on_blue_seal_trigger"] =       0,
+     ["customCardList"] =       {
+       ["D_4"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             2
+          },
+         ["value"] =           "4",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "4 of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["C_4"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             2
+          },
+         ["value"] =           "4",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "4 of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["S_5"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             3
+          },
+         ["value"] =           "5",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "5 of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["H_Q"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             10
+          },
+         ["value"] =           "Queen",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Queen of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["H_A"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             12
+          },
+         ["value"] =           "Ace",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Ace of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["H_5"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             3
+          },
+         ["value"] =           "5",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "5 of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["D_Q"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             10
+          },
+         ["value"] =           "Queen",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Queen of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["D_A"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             12
+          },
+         ["value"] =           "Ace",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Ace of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["D_5"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             3
+          },
+         ["value"] =           "5",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "5 of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["C_Q"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             10
+          },
+         ["value"] =           "Queen",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Queen of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["C_A"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             12
+          },
+         ["value"] =           "Ace",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Ace of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["C_9"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             7
+          },
+         ["value"] =           "9",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "9 of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["S_6"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             4
+          },
+         ["value"] =           "6",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "6 of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["S_2"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             0
+          },
+         ["value"] =           "2",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "2 of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["D_J"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             9
+          },
+         ["value"] =           "Jack",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Jack of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["D_7"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             5
+          },
+         ["value"] =           "7",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "7 of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["H_9"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             7
+          },
+         ["value"] =           "9",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "9 of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["H_6"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             4
+          },
+         ["value"] =           "6",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "6 of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["H_2"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             0
+          },
+         ["value"] =           "2",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "2 of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["H_K"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             11
+          },
+         ["value"] =           "King",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "King of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["S_Q"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             10
+          },
+         ["value"] =           "Queen",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Queen of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["D_6"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             4
+          },
+         ["value"] =           "6",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "6 of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["S_K"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             11
+          },
+         ["value"] =           "King",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "King of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["D_2"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             0
+          },
+         ["value"] =           "2",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "2 of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["S_7"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             5
+          },
+         ["value"] =           "7",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "7 of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["S_3"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             1
+          },
+         ["value"] =           "3",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "3 of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["C_6"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             4
+          },
+         ["value"] =           "6",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "6 of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["H_7"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             5
+          },
+         ["value"] =           "7",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "7 of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["H_T"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             8
+          },
+         ["value"] =           "10",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "10 of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["D_8"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             6
+          },
+         ["value"] =           "8",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "8 of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["S_8"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             6
+          },
+         ["value"] =           "8",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "8 of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["C_J"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             9
+          },
+         ["value"] =           "Jack",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Jack of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["C_7"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             5
+          },
+         ["value"] =           "7",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "7 of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["C_K"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             11
+          },
+         ["value"] =           "King",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "King of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["C_5"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             3
+          },
+         ["value"] =           "5",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "5 of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["S_T"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             8
+          },
+         ["value"] =           "10",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "10 of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["H_3"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             1
+          },
+         ["value"] =           "3",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "3 of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["D_K"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             11
+          },
+         ["value"] =           "King",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "King of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["S_4"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             2
+          },
+         ["value"] =           "4",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "4 of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["S_J"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             9
+          },
+         ["value"] =           "Jack",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Jack of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["D_3"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             1
+          },
+         ["value"] =           "3",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "3 of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["C_3"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             1
+          },
+         ["value"] =           "3",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "3 of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["D_9"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             7
+          },
+         ["value"] =           "9",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "9 of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["H_4"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             2
+          },
+         ["value"] =           "4",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "4 of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["S_A"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             12
+          },
+         ["value"] =           "Ace",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Ace of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["S_9"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             3,
+           ["x"] =             7
+          },
+         ["value"] =           "9",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "9 of Spades",
+         ["suit"] =           "Spades"
+        },
+       ["C_8"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             6
+          },
+         ["value"] =           "8",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "8 of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["H_J"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             9
+          },
+         ["value"] =           "Jack",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "Jack of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["C_2"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             0
+          },
+         ["value"] =           "2",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "2 of Clubs",
+         ["suit"] =           "Clubs"
+        },
+       ["H_8"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             0,
+           ["x"] =             6
+          },
+         ["value"] =           "8",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "8 of Hearts",
+         ["suit"] =           "Hearts"
+        },
+       ["D_T"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             2,
+           ["x"] =             8
+          },
+         ["value"] =           "10",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "10 of Diamonds",
+         ["suit"] =           "Diamonds"
+        },
+       ["C_T"] =         {
+         ["lc_atlas"] =           "cards_1",
+         ["pos"] =           {
+           ["y"] =             1,
+           ["x"] =             8
+          },
+         ["value"] =           "10",
+         ["hc_atlas"] =           "cards_2",
+         ["name"] =           "10 of Clubs",
+         ["suit"] =           "Clubs"
+        }
+      },
+     ["chance_to_disable_gold_money"] =       0,
+     ["eternal_rate"] =       30,
+     ["double_tag"] =       false,
+     ["ante_scaling"] =       2,
+     ["allow_black_hole"] =       false,
+     ["chance_purple_seal_rolls_spectral"] =       0,
+     ["planet_cards_in_spectral"] =       false,
+     ["edition_rate"] =       1,
+     ["random_polychrome_cards"] =       0,
+     ["never_telescoping"] =       false,
+     ["centerPosition"] =       16,
+     ["extra_hand_bonus"] =       4,
+     ["boss_tag_percent"] =       0,
+     ["rental_rate"] =       30,
+     ["allow_duplicate_jokers"] =       false,
+     ["one_free_booster_in_shop"] =       false,
+     ["randomize_suits"] =       false,
+     ["rawDescription"] =       "Custom Deck<ncreated at<n<:attention<09/08/2025 1:01 AM<",
+     ["random_starting_jokers"] =       0,
+     ["edition"] =       false,
+     ["extra_discard_bonus"] =       2,
+     ["skip_blind_disabled_chance_small_blind"] =       0,
+     ["tag_on_win_config"] =       {
+       ["mega_standard_tag_percent"] =         {
+         ["key"] =           "tag_standard",
+         ["chance"] =           0
+        },
+       ["voucher_tag_percent"] =         {
+         ["key"] =           "tag_voucher",
+         ["chance"] =           0
+        },
+       ["economy_tag_percent"] =         {
+         ["key"] =           "tag_economy",
+         ["chance"] =           0
+        },
+       ["boss_tag_percent"] =         {
+         ["key"] =           "tag_boss",
+         ["chance"] =           0
+        },
+       ["rare_tag_percent"] =         {
+         ["key"] =           "tag_rare",
+         ["chance"] =           0
+        },
+       ["double_tag_percent"] =         {
+         ["key"] =           "tag_double",
+         ["chance"] =           0
+        },
+       ["meteor_tag_percent"] =         {
+         ["key"] =           "tag_meteor",
+         ["chance"] =           0
+        },
+       ["investment_tag_percent"] =         {
+         ["key"] =           "tag_investment",
+         ["chance"] =           0
+        },
+       ["coupon_tag_percent"] =         {
+         ["key"] =           "tag_coupon",
+         ["chance"] =           0
+        },
+       ["negative_tag_percent"] =         {
+         ["key"] =           "tag_negative",
+         ["chance"] =           0
+        },
+       ["top_up_tag_percent"] =         {
+         ["key"] =           "tag_top_up",
+         ["chance"] =           0
+        },
+       ["orbital_tag_percent"] =         {
+         ["key"] =           "tag_orbital",
+         ["chance"] =           0
+        },
+       ["ethereal_tag_percent"] =         {
+         ["key"] =           "tag_ethereal",
+         ["chance"] =           0
+        },
+       ["garbage_tag_percent"] =         {
+         ["key"] =           "tag_garbage",
+         ["chance"] =           0
+        },
+       ["juggle_tag_percent"] =         {
+         ["key"] =           "tag_juggle",
+         ["chance"] =           0
+        },
+       ["d6_tag_percent"] =         {
+         ["key"] =           "tag_d_six",
+         ["chance"] =           0
+        },
+       ["foil_tag_percent"] =         {
+         ["key"] =           "tag_foil",
+         ["chance"] =           0
+        },
+       ["holographic_tag_percent"] =         {
+         ["key"] =           "tag_holo",
+         ["chance"] =           0
+        },
+       ["handy_tag_percent"] =         {
+         ["key"] =           "tag_handy",
+         ["chance"] =           0
+        },
+       ["buffoon_tag_percent"] =         {
+         ["key"] =           "tag_buffoon",
+         ["chance"] =           0
+        },
+       ["polychrome_tag_percent"] =         {
+         ["key"] =           "tag_polychrome",
+         ["chance"] =           0
+        },
+       ["uncommon_tag_percent"] =         {
+         ["key"] =           "tag_uncommon",
+         ["chance"] =           0
+        },
+       ["skip_tag_percent"] =         {
+         ["key"] =           "tag_skip",
+         ["chance"] =           0
+        },
+       ["charm_tag_percent"] =         {
+         ["key"] =           "tag_charm",
+         ["chance"] =           0
+        }
+      },
+     ["skip_blind_disabled_chance_any"] =       0,
+     ["random_gold_cards"] =       0,
+     ["spectral_seals_add_additional"] =       false,
+     ["blind_scaling"] =       3,
+     ["random_enhancement_cards"] =       0,
+     ["random_mult_cards"] =       0,
+     ["perishable_rate"] =       30,
+     ["always_telescoping"] =       false,
+     ["skip_tag_percent"] =       0,
+     ["extra_red_seal_repetitions"] =       0,
+     ["random_wild_cards"] =       0,
+     ["random_stone_cards"] =       0,
+     ["random_glass_cards"] =       0,
+     ["random_steel_cards"] =       0,
+     ["voucher_tag_percent"] =       0,
+     ["red_seal_silly_messages"] =       false,
+     ["death_targets_random_card"] =       false,
+     ["random_bonus_cards"] =       0,
+     ["random_edition_cards"] =       0,
+     ["random_foil_cards"] =       0,
+     ["chance_for_twenty_dollars_on_shop_skip"] =       0,
+     ["bannedBlindList"] =       {
+
+      },
+     ["random_holographic_cards"] =       0,
+     ["random_sell_value_increase"] =       0,
+     ["chance_to_increase_drawn_cards_rank"] =       0,
+     ["gain_dollars_when_skip_booster"] =       0,
+     ["chance_to_increase_discard_cards_rank"] =       0,
+     ["destroy_joker_on_broken_glass"] =       0,
+     ["mult_reduction_percent"] =       0,
+     ["chip_reduction_percent"] =       0,
+     ["full_price_consumables"] =       false,
+     ["extra_buffoon_pack_cards"] =       0,
+     ["chance_for_two_purple_tarots"] =       0,
+     ["full_price_jokers"] =       false,
+     ["standard_pack_enhancement_rate"] =       40,
+     ["mega_standard_tag_percent"] =       0,
+     ["bannedTarotList"] =       {
+
+      },
+     ["spectral_rate"] =       0,
+     ["uncommon_tag_percent"] =       0,
+     ["all_polychrome"] =       false,
+     ["make_stones_lucky"] =       0,
+     ["halved_probabilities"] =       false,
+     ["disable_mult_cards_chance"] =       0,
+     ["skip_shop_chance_any"] =       0,
+     ["doubled_probabilities"] =       false,
+     ["randomize_hands_discards"] =       false,
+     ["blue_seal_switch_trigger"] =       false,
+     ["one_random_voucher"] =       false,
+     ["randomly_enable_gameplay_settings"] =       false,
+     ["hand_size"] =       2,
+     ["randomize_appearance_rates"] =       false,
+     ["polychrome_tag_percent"] =       0,
+     ["divide_probabilities"] =       1,
+     ["randomize_money_settings"] =       false,
+     ["all_mult"] =       false,
+     ["randomize_money_small"] =       false,
+     ["foil_tag_percent"] =       0,
+     ["consumable_slot"] =       10,
+     ["all_gold"] =       false,
+     ["ouija_cannot_change_hand_size"] =       false,
+     ["orbital_tag_percent"] =       0,
+     ["ethereal_tag_percent"] =       0,
+     ["no_aces"] =       false,
+     ["win_ante"] =       33,
+     ["inflation"] =       false,
+     ["flipped_cards"] =       false,
+     ["random_lucky_cards"] =       0,
+     ["negative_joker_money"] =       0,
+     ["buffoon_tag_percent"] =       0,
+     ["enable_rentals_in_shop"] =       false,
+     ["extra_hand_level_upgrades"] =       0,
+     ["planet_cards_in_arcana"] =       false,
+     ["minus_hand_size_per_X_dollar"] =       false,
+     ["double_tag_percent"] =       0,
+     ["all_bonus"] =       false,
+     ["balance_percent"] =       0,
+     ["randomize_ranks"] =       false,
+     ["negative_joker_for_broken_glass"] =       0,
+     ["uuid"] =       "2b00bf58-f2b4-4772-91af-ef8c86111927",
+     ["economy_tag_percent"] =       0,
+     ["wraith_cannot_set_money_to_zero"] =       false,
+     ["edition_count"] =       1,
+     ["customJokerList"] =       {
+               {
+         ["copies"] =           1,
+         ["eternal"] =           false,
+         ["rental"] =           false,
+         ["id"] =           "j_godopsno_ci",
+         ["key"] =           "j_godopsno_ci",
+         ["pinned"] =           false,
+         ["perishable"] =           false,
+         ["uuid"] =           "36869e9f-1ae8-4c42-a1ce-6029ee1c497a"
+        },
+               {
+         ["copies"] =           1,
+         ["eternal"] =           false,
+         ["rental"] =           false,
+         ["id"] =           "j_godopsno_wdgaster",
+         ["key"] =           "j_godopsno_wdgaster",
+         ["pinned"] =           false,
+         ["perishable"] =           false,
+         ["uuid"] =           "15a98925-dddd-4961-80b2-b329410e68a4"
+        },
+               {
+         ["id"] =           "j_godopsbe_wdgaster",
+         ["perishable"] =           false,
+         ["copies"] =           1,
+         ["rental"] =           false,
+         ["uuid"] =           "08da5c16-136b-4a31-9f5f-e18ab743a816",
+         ["pinned"] =           false,
+         ["key"] =           "j_godopsbe_wdgaster",
+         ["eternal"] =           false
+        },
+               {
+         ["id"] =           "j_godopsbe_ci",
+         ["perishable"] =           false,
+         ["copies"] =           1,
+         ["rental"] =           false,
+         ["uuid"] =           "466d1a82-a962-428b-953e-8e58f19a61db",
+         ["pinned"] =           false,
+         ["key"] =           "j_godopsbe_ci",
+         ["eternal"] =           false
+        }
+      },
+     ["negative_fifty_dollars_allowed"] =       false,
+     ["all_foil"] =       false,
+     ["enhanced_dollars_per_round"] =       0,
+     ["multiply_probabilities"] =       1,
+     ["broken_glass_money"] =       0,
+     ["holographic_tag_percent"] =       0,
+     ["customVoucherList"] =       {
+
+      },
+     ["deck_back_index"] =       33,
+     ["debuff_played_cards"] =       false,
+     ["reroll_boosters"] =       false,
+     ["triple_mult_cards_chance"] =       0,
+     ["bannedBoosterList"] =       {
+
+      },
+     ["d6_tag_percent"] =       0,
+     ["chips_dollar_cap"] =       false,
+     ["make_sevens_lucky"] =       0,
+     ["all_lucky"] =       false,
+     ["all_stone"] =       false,
+     ["playing_card_rate"] =       0,
+     ["all_glass"] =       false,
+     ["all_wild"] =       false,
+     ["all_holo"] =       false,
+     ["standard_pack_seal_rate"] =       20,
+     ["extra_booster_pack_choices"] =       0,
+     ["planet_rate"] =       4,
+     ["tarot_rate"] =       4,
+     ["joker_rate"] =       20,
+     ["random_sell_value_decrease"] =       0,
+     ["skip_shop_chance_small_blind"] =       0,
+     ["negative_tag_percent"] =       0,
+     ["balance_chips"] =       false,
+     ["discount_percent"] =       0,
+     ["interest_cap"] =       25,
+     ["rare_tag_percent"] =       0,
+     ["one_free_card_in_shop"] =       false,
+     ["invert_back"] =       true,
+     ["skip_shop_chance_boss"] =       0,
+     ["chance_for_five_dollars_on_skip_disable"] =       0,
+     ["reroll_discount"] =       0,
+     ["replace_broken_glass_with_random_cards_chance"] =       0,
+     ["randomize_money_configurable"] =       0,
+     ["charm_tag_percent"] =       0,
+     ["joker_slot"] =       10,
+     ["juggle_tag_percent"] =       0,
+     ["spectral_cards_in_celestial"] =       false,
+     ["random_starting_items"] =       false,
+     ["customPlanetList"] =       {
+
+      },
+     ["customDeck"] =       true,
+     ["enable_eternals_in_shop"] =       false,
+     ["allow_soul"] =       false,
+     ["bannedJokerList"] =       {
+
+      },
+     ["aces_are_faces"] =       false,
+     ["draw_to_hand_size"] =       "--",
+     ["extra_celestial_pack_cards"] =       0,
+     ["bannedSpectralList"] =       {
+
+      },
+     ["chance_to_disable_red_seal_retriggers"] =       0,
+     ["extra_standard_pack_cards"] =       0,
+     ["one_free_item_in_shop"] =       false,
+     ["interest_amount"] =       1,
+     ["chance_for_free_booster"] =       0,
+     ["purple_seal_switch_trigger"] =       false,
+     ["investment_tag_percent"] =       0,
+     ["extra_arcana_pack_cards"] =       0,
+     ["bannedPlanetList"] =       {
+
+      },
+     ["voucher_is_free"] =       false,
+     ["chance_to_triple_gold_money"] =       0,
+     ["top_up_tag_percent"] =       0,
+     ["handy_tag_percent"] =       0,
+     ["spectral_cards_cannot_destroy_jokers"] =       false,
+     ["extra_spectral_pack_cards"] =       0,
+     ["chance_for_fifteen_dollars_on_skip_disable"] =       0,
+     ["standard_pack_edition_rate"] =       2,
+     ["no_numbered_cards"] =       false,
+     ["blue_seal_always_most_played"] =       false,
+     ["tarot_cards_in_celestial"] =       false,
+     ["allow_legendary_jokers_everywhere"] =       false,
+     ["customTagList"] =       {
+
+      },
+     ["skip_shop_chance_big_blind"] =       0,
+     ["remove_faces"] =       false,
+     ["hands"] =       5,
+     ["custom_cards_set"] =       false,
+     ["skip_blind_disabled_chance_big_blind"] =       0,
+     ["customSpectralList"] =       {
+
+      },
+     ["custom_jokers_set"] =       true,
+     ["garbage_tag_percent"] =       0
+    }
+  }
+}
